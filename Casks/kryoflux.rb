@@ -1,6 +1,6 @@
 cask "kryoflux" do
-  version "3.00"
-  sha256 "39674e173d3c4532118edbfff3804d6399512172890169e41d381c8bb7a58c7f"
+  version "3.50"
+  sha256 "526b1b1d39e2d2447d4806166aa4920da1424b76a5193a2d393dca643a649cad"
 
   url "https://www.kryoflux.com/download/kryoflux_#{version}_macosx.dmg"
   name "KryoFlux"
